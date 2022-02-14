@@ -1,0 +1,15 @@
+
+pre.highlight {
+    margin-bottom: 1.6rem;
+    padding: .8rem 1.2rem;
+    background: #faf9f9;
+    box-shadow: 0 0 0 1px #eee;
+    overflow: scroll;
+    max-width: 100%;
+    max-height: 300px !important;
+    overflow-y: auto !important;
+}
+
+code {
+  font-family:'Bitstream Vera Sans Mono','Courier', monospace;
+}
