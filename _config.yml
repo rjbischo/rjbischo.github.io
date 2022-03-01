@@ -98,3 +98,5 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - Rmds/
+
+theme: jekyll-theme-slate
